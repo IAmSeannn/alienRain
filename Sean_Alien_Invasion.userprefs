@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TotalBlobsOnScreen.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CreateRain.cs" Line="80" Column="4" />
+      <File FileName="Assets\Scripts\BlobControl.cs" Line="27" Column="21" />
+      <File FileName="Assets\Scripts\TotalBlobsOnScreen.cs" Line="28" Column="98" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
